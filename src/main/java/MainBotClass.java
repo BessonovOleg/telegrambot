@@ -22,8 +22,8 @@ import java.util.List;
 import static java.lang.Math.toIntExact;
 
 public class MainBotClass extends TelegramLongPollingBot{
-    private String TOKEN = "631125685:AAEQon8INrqx1v_pkZlm_jz15c4S6vBQZXg";
-    private String BOTNAME = "@T2studioBot";
+    private String TOKEN = "";
+    private String BOTNAME = "";
 
     public String getBotToken() {
         return TOKEN;
